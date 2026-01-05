@@ -1,0 +1,43 @@
+{
+  "id": 191,
+  "fecha": "2025-12-14 16:36:14",
+  "items": [
+    {
+      "cantidad": 1,
+      "nombre": "AGUA",
+      "subtotal": 2000.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "AGUARDIENTE CAJA 1L",
+      "subtotal": 50000.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ACEITE PREMIER 1L",
+      "subtotal": 10000.0
+    }
+  ],
+  "total": 62000.0,
+  "cliente": {
+    "nombre": "STEVEN BAUSSA",
+    "identificacion": "1043664311",
+    "telefono": "3009626009",
+    "email": "stevenbaussamz@gmail.com",
+    "direccion": "CRA 60 #66 -135",
+    "puntos": 0
+  },
+  "metodo_pago": {
+    "tipo": "efectivo",
+    "monto_efectivo": 62000,
+    "monto_transferencia": 0,
+    "monto_recibido": 100000,
+    "cambio": 38000
+  },
+  "empresa": {
+    "nombre": "TIENDA - POS BAUSSA",
+    "nit": "123456789-12",
+    "direccion": "Calle Principal #123",
+    "telefono": "300 928 8888"
+  }
+}

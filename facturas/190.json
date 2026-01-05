@@ -1,0 +1,33 @@
+{
+  "id": 190,
+  "fecha": "2025-12-14 16:32:43",
+  "items": [
+    {
+      "cantidad": 9,
+      "nombre": "AGUARDIENTE CAJA 1L",
+      "subtotal": 450000.0
+    }
+  ],
+  "total": 450000.0,
+  "cliente": {
+    "nombre": "STEVEN BAUSSA",
+    "identificacion": "1043664311",
+    "telefono": "3009626009",
+    "email": "stevenbaussamz@gmail.com",
+    "direccion": "CRA 60 #66 -135",
+    "puntos": 0
+  },
+  "metodo_pago": {
+    "tipo": "efectivo",
+    "monto_efectivo": 0,
+    "monto_transferencia": 0,
+    "monto_recibido": 0,
+    "cambio": 0
+  },
+  "empresa": {
+    "nombre": "TIENDA - POS BAUSSA",
+    "nit": "123456789-12",
+    "direccion": "Calle Principal #123",
+    "telefono": "300 928 8888"
+  }
+}
